@@ -5,8 +5,7 @@
     "keywords": [
         "framework",
         "thinkphp",
-        "ORM",
-        "libo/think-php5.1-restfulapi"
+        "ORM"
     ],
     "homepage": "http://www.niubea.com/",
     "license": "MIT",
