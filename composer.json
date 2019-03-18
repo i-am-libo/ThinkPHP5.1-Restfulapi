@@ -1,12 +1,12 @@
 {
-    "name": "libo/ThinkPHP5.1-Restfulapi",
+    "name": "libo/think-php5.1-restfulapi",
     "description": "ThinkPHP5.1-Restfulapi",
     "type": "project",
     "keywords": [
         "framework",
         "thinkphp",
         "ORM",
-        "libo/ThinkPHP5.1-Restfulapi"
+        "libo/think-php5.1-restfulapi"
     ],
     "homepage": "http://www.niubea.com/",
     "license": "libo",
