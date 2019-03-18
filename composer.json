@@ -1,0 +1,33 @@
+{
+    "name": "libo/ThinkPHP5.1-Restfulapi",
+    "description": "ThinkPHP5.1-Restfulapi",
+    "type": "project",
+    "keywords": [
+        "framework",
+        "thinkphp",
+        "ORM",
+        "libo/ThinkPHP5.1-Restfulapi"
+    ],
+    "homepage": "http://www.niubea.com/",
+    "license": "libo",
+    "authors": [
+        {
+            "name": "libo",
+            "email": "libo@usa.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "application"
+        }
+    },
+    "extra": {
+        "think-path": "thinkphp"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
