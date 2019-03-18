@@ -9,7 +9,7 @@
         "libo/think-php5.1-restfulapi"
     ],
     "homepage": "http://www.niubea.com/",
-    "license": "Apache2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "libo",
